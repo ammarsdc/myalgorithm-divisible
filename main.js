@@ -1,4 +1,4 @@
-for (i=0; i <= 100; i++) {
+for (i = 0; i <= 100; i++) {
     isDivisibleBy3 = i%3 === 0;
     isDivisibleBy5 = i%5 === 0;
     
