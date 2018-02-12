@@ -1,1 +1,0 @@
-# myalgorithm-divisible
